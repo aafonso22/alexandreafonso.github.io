@@ -11,6 +11,7 @@ hidemeta: false
 ##### Read
 
 + [Read the article (DOI: 10.1111/bjir.12863)](https://doi.org/10.1111/bjir.12863)
++ [Dataset on Social Dialogue in European Countries (1980–2018)]({{< ref "/data/social-dialogue" >}}): download the data, codebook and replication materials
 + [Find on Google Scholar](https://scholar.google.com/scholar?q=Determinants%20of%20Social%20Dialogue%20in%20European%20Countries%20%281980%E2%80%932018%29)
 
 ---
