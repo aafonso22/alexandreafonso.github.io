@@ -83,7 +83,7 @@ params:
     - name: CV
       url: cv.pdf
     - name: Email
-      url: mailto:a.afonso@fgga.leidenuniv.nl
+      url: "#email"
     - name: Location
       url: contact/
     - name: Google Scholar

@@ -1,0 +1,17 @@
+{{- /* Email protection: the address is assembled in the browser, so it never appears in the page source. */ -}}
+<script>
+(function () {
+  var u = ["a", "afonso"].join("."), d = ["fgga", "leidenuniv", "nl"].join(".");
+  var addr = u + String.fromCharCode(64) + d;
+  document.querySelectorAll('a[href$="#email"]').forEach(function (a) {
+    a.setAttribute("href", "mai" + "lto:" + addr);
+    a.removeAttribute("target");
+  });
+  document.querySelectorAll(".js-email").forEach(function (el) {
+    var a = document.createElement("a");
+    a.href = "mai" + "lto:" + addr;
+    a.textContent = addr;
+    el.replaceWith(a);
+  });
+})();
+</script>

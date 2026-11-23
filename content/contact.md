@@ -6,7 +6,7 @@ description: "How to reach me."
 
 #### Email
 
-[a.afonso@fgga.leidenuniv.nl](mailto:a.afonso@fgga.leidenuniv.nl)
+<span class="js-email">a.afonso [at] fgga [dot] leidenuniv [dot] nl</span>
 
 ---
 
@@ -24,11 +24,6 @@ Wijnhaven, Turfmarkt 99
 Postbus 13228  
 2501 EE Den Haag, The Netherlands
 
----
-
-#### Phone
-
-+31 70 800 9923
 
 ---
 
