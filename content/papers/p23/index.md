@@ -6,6 +6,11 @@ author: "Moury, C. and Afonso, A."
 description: "South European Society and Politics, 2019."
 summary: "South European Society and Politics, 2019."
 hidemeta: false
+aliases: ["/books/policy-reversals/"]
+---
+
+This article introduces the special issue *Policy Reversals After the Eurozone Crisis* of *South European Society and Politics* 24(2), which I co-edited with Catherine Moury.
+
 ---
 
 ##### Read
