@@ -14,6 +14,7 @@ I write [a newsletter on political economy](https://alexandreafonso.substack.com
 
 ### 2026
 
++ **Quoted** — *Expresso*, 12 June 2026: “Social-populismo”: de Bardella a Meloni e Ventura, o calcanhar de Aquiles económico da ultradireita (in Portuguese) · [PDF](/media/2026-06-12-expresso-social-populismo-de-bardella-a-meloni-e-ventura.pdf)
 + **On my work** — *Financial Times (Alphaville)*, 13 November 2026: “FTAV’s further reading” (links my newsletter post “Models of Football Capitalism”) · [PDF](/media/2026-11-13-financial-times-alphaville-ftavs-further-reading.pdf)
 
 ### 2022
