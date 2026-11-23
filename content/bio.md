@@ -24,4 +24,4 @@ Comparative political economy · Welfare states and social policy · Labour mark
 #### Download
 
 + [Curriculum vitae (PDF)](../cv.pdf)
-+ [Portrait photo](../picture.jpg)
++ [Portrait photo (high resolution, 1703 × 1703 px)](../alexandre-afonso-portrait.jpg)
