@@ -28,6 +28,7 @@ I write [a newsletter on political economy](https://alexandreafonso.substack.com
 + **Radio** — *Radio Nacional de España (RNE)*, 2021: Radio interview (in Spanish)
 
   <audio controls preload="none" src="/media/2021-rne-interview.mp3" style="width:100%;max-width:460px"></audio>
++ **Podcast** — *45 Graus*, 8 December 2021: #112 Alexandre Afonso – Imigração, populismo e Portugal visto de fora (in Portuguese) · [Link](https://45grauspodcast.com/2021/12/08/112-alexandre-afonso-imigrao-populismo-e-portugal-visto-de-fora/)
 
 ### 2020
 
