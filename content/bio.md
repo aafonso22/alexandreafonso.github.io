@@ -2,6 +2,7 @@
 title: "Bio"
 hidemeta: true
 description: "Short biography. For full details, see my [CV](../cv.pdf)."
+aliases: ["/vitae/", "/about/"]
 ---
 
 Alexandre Afonso is Associate Professor of Public Policy at the Institute of Public Administration, Faculty of Governance and Global Affairs, Leiden University, where he has worked since 2015. Before joining Leiden, he was Lecturer in Politics in the Department of Political Economy at King's College London (2012–2015), a postdoctoral fellow at the Max Planck Institute for the Study of Societies in Cologne (2011–2012) and a Max Weber Fellow at the European University Institute in Florence (2010–2011). He has also been a visiting scholar at Johns Hopkins University (SAIS) and at the Amsterdam Institute for Advanced Labour Studies. He obtained his PhD in political science from the University of Lausanne in 2010; his thesis received the Faculty Prize.

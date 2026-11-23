@@ -2,6 +2,7 @@
 title: "Contact"
 hidemeta: true
 description: "How to reach me."
+aliases: ["/contact-2/"]
 ---
 
 #### Email
