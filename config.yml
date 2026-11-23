@@ -1,0 +1,113 @@
+baseURL: "https://aafonso22.github.io/alexandreafonso.github.io/"
+title: Alexandre Afonso
+theme: PaperMod
+languageCode: en
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 50
+
+taxonomies:
+  tag: tags
+
+menu:
+  main:
+    - name: Papers
+      url: papers/
+      weight: 1
+    - name: Books
+      url: books/
+      weight: 2
+    - name: Teaching
+      url: teaching/
+      weight: 3
+    - name: Data
+      url: data/
+      weight: 4
+    - name: Media
+      url: media/
+      weight: 5
+    - name: Bio
+      url: bio/
+      weight: 6
+    - name: Newsletter
+      url: https://alexandreafonso.substack.com/
+      weight: 7
+
+params:
+  description: "Alexandre Afonso is Associate Professor of Public Policy at Leiden University. This website hosts his research papers, books, teaching, data, media work, CV and contact information."
+  author: Alexandre Afonso
+  DateFormat: "2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowAllPagesInArchive: false
+  MainSections: [papers, books, data]
+  ShowToc: false
+  disableScrollToTop: true
+  UseHugoToc: true
+  comments: false
+  math: false
+  profileMode:
+    enabled: true
+    title: Alexandre Afonso
+    subtitle: "I am Associate Professor of Public Policy at the Institute of Public Administration, Leiden University, in The Hague. My research lies at the intersection of public policy and comparative political economy: welfare state and labour market reform, the political economy of immigration, and the role of political parties and organised interests in policy change."
+    imageUrl: picture.jpg
+    imageTitle: Alexandre Afonso
+    imageWidth: 170
+    imageHeight: 170
+    buttons:
+      - name: Papers
+        url: papers/
+      - name: Books
+        url: books/
+      - name: Teaching
+        url: teaching/
+      - name: Data
+        url: data/
+      - name: Media
+        url: media/
+      - name: Bio
+        url: bio/
+      - name: Newsletter
+        url: https://alexandreafonso.substack.com/
+
+  socialIcons:
+    - name: CV
+      url: cv.pdf
+    - name: Email
+      url: mailto:a.afonso@fgga.leidenuniv.nl
+    - name: Location
+      url: contact/
+    - name: Google Scholar
+      url: https://scholar.google.nl/citations?user=PeRphfEAAAAJ&hl=en
+    - name: Substack
+      url: https://alexandreafonso.substack.com/
+    - name: Bluesky
+      url: https://bsky.app/profile/alexandreafonso.bsky.social
+
+  assets:
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: true
+    hiddenInSingle: true
+  label:
+    text: Alexandre Afonso
+    icon: favicon.ico
+    iconHeight: 18
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
