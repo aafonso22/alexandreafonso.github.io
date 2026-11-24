@@ -7,7 +7,7 @@ description: "Courses I teach and have taught at Leiden University, King's Colle
 #### Leiden University (2015–)
 
 + **Economische Theorie van de Politiek** — BA Bestuurskunde (in Dutch), 2024–
-+ **Beleid, Bureaucratie en Markten** — BA Bestuurskunde (in Dutch)
++ **Beleid, Bureaucratie en Markten** — BA Economie & Samenleving (in Dutch)
 + **Global Challenges and Public Policies** — core course, MA Public Administration (European and International Governance), 2016–
 + **The Political Economy of Immigration** — MA thesis capstone, 2018–
 + **The Shadow of the Past: History, Path Dependence and Public Policies** — MA thesis capstone, 2023
