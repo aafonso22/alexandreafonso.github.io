@@ -16,16 +16,26 @@ I write [a newsletter on political economy](https://alexandreafonso.substack.com
 
 + **Quoted** — *Expresso*, 12 June 2026: “Social-populismo”: de Bardella a Meloni e Ventura, o calcanhar de Aquiles económico da ultradireita (in Portuguese) · [PDF](/media/2026-06-12-expresso-social-populismo-de-bardella-a-meloni-e-ventura.pdf)
 + **On my work** — *Financial Times (Alphaville)*, 13 November 2026: “FTAV’s further reading” (links my newsletter post “Models of Football Capitalism”) · [PDF](/media/2026-11-13-financial-times-alphaville-ftavs-further-reading.pdf)
++ **On my work** — *Daily Financial Times* (Sri Lanka), 13 November 2026: “What social media can, and cannot shape or predict around elections” (discusses my analysis of Lula’s WhatsApp campaign channel) · [PDF](/media/2026-11-13-daily-financial-times-what-social-media-can-and-cannot-shape.pdf)
+
+### 2023
+
++ **On my work** — *Libération*, 23 November 2023: “Obsédé par le Coran, prorusse et partisan du Nexit : Geert Wilders, l’increvable figure de l’extrême droite” (in French) · [PDF](/media/2023-11-23-liberation-obsede-par-le-coran-prorusse-et-partisan.pdf)
 
 ### 2022
 
++ **Quoted** — *Rapporteur*, 25 January 2022: “Portugal’s flourishing far right target Roma ahead of vote” · [PDF](/media/2022-01-25-rapporteur-portugals-flourishing-far-right-target-roma.pdf)
++ **On my work** — *El País*, 27 January 2022: “El antisistema que quiere ser ministro en Portugal” (in Spanish) · [PDF](/media/2022-01-27-el-pais-el-antisistema-que-quiere-ser-ministro.pdf)
++ **Quoted** — *Knack*, 9 February 2022: “Lessen uit Lissabon: na de zege van de socialisten” (in Dutch) · [PDF](/media/2022-02-09-knack-lessen-uit-lissabon.pdf)
 + **Quoted** — *The Nation*, 19 March 2022: “How the Netherlands Became a Global Cocaine Hub” · [PDF](/media/2022-03-19-the-nation-how-the-netherlands-became-a-global-coca.pdf)
++ **Quoted** — *El País*, 2 October 2022: “La extrema derecha sacude Europa” (in Spanish) · [PDF](/media/2022-10-02-el-pais-la-extrema-derecha-sacude-europa.pdf)
 
 ### 2021
 
 + **Radio** — *RTS, Tout un monde*, 17 March 2021: Interview on the Dutch parliamentary elections (in French)
 
   <audio controls preload="none" src="/media/2021-03-17-rts-tout-un-monde.mp3" style="width:100%;max-width:460px"></audio>
++ **Quoted** — *CE Noticias Financieras*, 24 March 2021: “Surprise in Dutch election grew as it faced ultra-right debate” · [PDF](/media/2021-03-24-ce-noticias-financieras-surprise-in-dutch-election-grew-as.pdf)
 + **Radio** — *Radio Nacional de España (RNE)*, 2021: Radio interview (in Spanish)
 
   <audio controls preload="none" src="/media/2021-rne-interview.mp3" style="width:100%;max-width:460px"></audio>
@@ -35,6 +45,7 @@ I write [a newsletter on political economy](https://alexandreafonso.substack.com
 
 + **Op-ed** — *Le Grand Continent*, 15 April 2020: “Le long surplus italien” (in French) · [Link](https://legrandcontinent.eu/fr/2020/04/15/le-mythe-de-leurope-du-sud-depensiere-et-du-nord-econome/)
 + **Letter** — *Financial Times*, July 2020: “Frugal Four bound to be irked by fiscal transfers” · [PDF](/media/2020-07-financial-times-frugal-four-bound-to-be-irked-by-fiscal.pdf)
++ **Quoted** — *De Groene Amsterdammer*, 9 July 2020: “Nettobetalers, netto-ontvangers: de Europese transferunie” (in Dutch) · [PDF](/media/2020-07-09-de-groene-amsterdammer-nettobetalers-netto-ontvangers.pdf)
 + **Quoted** — *Le Figaro*, 16 July 2020: “Le Néerlandais Mark Rutte, un négociateur sans état d’âme” (in French) · [PDF](/media/2020-07-16-le-figaro-le-neerlandais-mark-rutte-un-negociateur.pdf)
 + **Op-ed** — *Het Parool*, 4 August 2020: “EU-bezuinigingen zijn juist nadelig voor onderzoek in Nederland” (in Dutch)
 + **Op-ed** — *Público*, 5 September 2020: “Uma aliança entre o PSD e o Chega seria uma estratégia muito arriscada” (in Portuguese) · [Link](https://www.publico.pt/2020/09/05/politica/noticia/alianca-psd-chega-estrategia-arriscada-1930060)
