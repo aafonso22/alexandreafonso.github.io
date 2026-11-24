@@ -49,7 +49,7 @@ params:
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   ShowAllPagesInArchive: false
-  MainSections: [papers, books, data]
+  MainSections: [papers, chapters, books, data]
   ShowToc: false
   disableScrollToTop: true
   UseHugoToc: true
