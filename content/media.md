@@ -18,6 +18,12 @@ I write [a newsletter on political economy](https://alexandreafonso.substack.com
 + **On my work** — *Financial Times (Alphaville)*, 13 November 2026: “FTAV’s further reading” (links my newsletter post “Models of Football Capitalism”) · [PDF](/media/2026-11-13-financial-times-alphaville-ftavs-further-reading.pdf)
 + **On my work** — *Daily Financial Times* (Sri Lanka), 13 November 2026: “What social media can, and cannot shape or predict around elections” (discusses my analysis of Lula’s WhatsApp campaign channel) · [PDF](/media/2026-11-13-daily-financial-times-what-social-media-can-and-cannot-shape.pdf)
 
+### 2025
+
++ **Radio** — *Antena 1 (RTP), Visão Global*, 9 November 2025: Interview on the Dutch parliamentary elections (in Portuguese) · [Link](https://www.rtp.pt/play/p282/e887960/visao-global)
+
+  <audio controls preload="none" src="https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at1/2511/PGM2500000703901_563874-2311-2511072047.mp3" style="width:100%;max-width:460px"></audio>
+
 ### 2023
 
 + **On my work** — *Libération*, 23 November 2023: “Obsédé par le Coran, prorusse et partisan du Nexit : Geert Wilders, l’increvable figure de l’extrême droite” (in French) · [PDF](/media/2023-11-23-liberation-obsede-par-le-coran-prorusse-et-partisan.pdf)
