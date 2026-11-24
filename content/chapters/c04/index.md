@@ -10,6 +10,7 @@ hidemeta: false
 
 ##### Read
 
++ [Download the chapter (PDF, 463 KB)](maggetti-afonso-fontana-2011-liberalisation-regulatory-reforms.pdf)
 + [Find on Google Scholar](https://scholar.google.com/scholar?q=The%20More%20it%20Changes%2C%20the%20More%20it%20Stays%20the%20Same%3F%20Liberalisation%20and%20Regulatory%20Reforms%20in%20Comparative%20Perspective)
 
 ---

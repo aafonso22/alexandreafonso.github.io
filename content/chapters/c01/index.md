@@ -10,6 +10,7 @@ hidemeta: false
 
 ##### Read
 
++ [Download the chapter (PDF, 260 KB)](afonso-2004-immigration-impacts-switzerland.pdf)
 + [Find on Google Scholar](https://scholar.google.com/scholar?q=Immigration%20and%20its%20Impacts%20in%20Switzerland)
 
 ---

@@ -10,6 +10,7 @@ hidemeta: false
 
 ##### Read
 
++ [Download the chapter (pre-publication proof, PDF, 383 KB)](afonso-rennwald-2018-radical-right-welfare-state.pdf)
 + [Find on Google Scholar](https://scholar.google.com/scholar?q=Social%20Class%20and%20the%20Welfare%20State%20Agenda%20of%20Radical%20Right%20Parties)
 
 ---

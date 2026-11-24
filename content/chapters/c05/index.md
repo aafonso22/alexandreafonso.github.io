@@ -10,6 +10,7 @@ hidemeta: false
 
 ##### Read
 
++ [Download the chapter (PDF, 916 KB)](afonso-mach-2011-swiss-austrian-varieties-of-capitalism.pdf)
 + [Find on Google Scholar](https://scholar.google.com/scholar?q=Coming%20Together%20but%20Staying%20Apart%3A%20Continuity%20and%20Change%20in%20the%20Swiss%20and%20Austrian%20Varieties%20of%20Capitalism)
 
 ---

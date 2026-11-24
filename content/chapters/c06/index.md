@@ -10,6 +10,7 @@ hidemeta: false
 
 ##### Read
 
++ [Download the chapter (PDF, 240 KB)](afonso-2013-swiss-peoples-party-migration-policy.pdf)
 + [Find on Google Scholar](https://scholar.google.com/scholar?q=Whose%20Interests%20do%20Right-Wing%20Populist%20Parties%20Really%20Represent%3F%20The%20Migration%20Policy%20Agenda%20of%20the%20Swiss%20People%27s%20Party%20Between%20Nativism%20and%20Neoliberalism)
 
 ---

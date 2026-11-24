@@ -10,6 +10,7 @@ hidemeta: false
 
 ##### Read
 
++ [Download the chapter (pre-publication proof, PDF, 297 KB)](afonso-visser-2014-swiss-dutch-social-models.pdf)
 + [Find on Google Scholar](https://scholar.google.com/scholar?q=The%20Liberal-Corporatist%20Road%20to%20High%20Employment%20and%20Low%20Inequality%3F%20Continuity%20and%20Change%20in%20the%20Swiss%20and%20Dutch%20Social%20Models)
 
 ---
