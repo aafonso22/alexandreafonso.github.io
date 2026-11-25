@@ -92,6 +92,8 @@ params:
       url: https://alexandreafonso.substack.com/
     - name: Bluesky
       url: https://bsky.app/profile/alexandreafonso.bsky.social
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/alexandre-afonso-b9128288/
 
   assets:
     disableScrollBarStyle: true
